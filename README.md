@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Pavan Seth 👋<br><br>BCA student (2027) at CMS Unnao, building real-world software.<br><br>**Skills:** Java, Python, C/C++, SQL, HTML, CSS, Supabase, Firebase, Git<br>**Automation:** Make.com, n8n, Google Sheets<br><br>**Project:** Hospital Booking System (HTML, CSS, Supabase, n8n, Make.com)<br>**Experience:** Intern at Netcamp Solutions, BOB HACKS '26 participant<br><br>📧 pavanseth391@gmail.com
+# Hi, I'm Pavan Seth 👋<br>BCA student (2027) at CMS Unnao, building real-world software.<br><br>**Skills:** Java, Python, C/C++, SQL, HTML, CSS, Supabase, Firebase, Git<br>**Automation:** Make.com, n8n, Google Sheets<br>**Project:** Hospital Booking System (HTML, CSS, Supabase, n8n, Make.com)<br>**Experience:** Intern at Netcamp Solutions, BOB HACKS '26 participant<br><br>📧 pavanseth391@gmail.com
 
 
 # 💻 Tech Stack:
@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pavancodes-io&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pavancodes-io&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=pavancodes-io&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
