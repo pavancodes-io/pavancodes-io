@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Pavan Seth 👋<br>BCA student (2027) at CMS Unnao, building real-world software.<br><br>**Skills:** Java, Python, C/C++, SQL, HTML, CSS, Supabase, Firebase, Git<br>**Automation:** Make.com, n8n, Google Sheets<br>**Project:** Hospital Booking System (HTML, CSS, Supabase, n8n, Make.com)<br>**Experience:** Intern at Netcamp Solutions, BOB HACKS '26 participant<br><br>📧 pavanseth391@gmail.com
+# Hi, I'm Pavan Seth 👋<br>Tech student (2027) at Kanpur University, building real-world software.<br><br>**Skills:** Java, Python, C/C++, SQL, HTML, CSS, Supabase, Firebase, Git<br>**Automation:** Make.com, n8n, Google Sheets<br>**Project:** Hospital Booking System (HTML, CSS, Supabase, n8n, Make.com)<br>**Experience:** Intern at Netcamp Solutions, BOB HACKS '26 participant<br><br>📧 pavanseth391@gmail.com
 
 
 # 💻 Tech Stack:
